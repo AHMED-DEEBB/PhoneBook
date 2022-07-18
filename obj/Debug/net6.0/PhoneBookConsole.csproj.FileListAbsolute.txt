@@ -1,0 +1,17 @@
+E:\C#\Windows Forms\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.exe
+E:\C#\Windows Forms\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.deps.json
+E:\C#\Windows Forms\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.runtimeconfig.json
+E:\C#\Windows Forms\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.dll
+E:\C#\Windows Forms\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.pdb
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.AssemblyReference.cache
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.AssemblyInfoInputs.cache
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.AssemblyInfo.cs
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.CoreCompileInputs.cache
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.dll
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\refint\PhoneBookConsole.dll
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.pdb
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.genruntimeconfig.cache
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\ref\PhoneBookConsole.dll
+E:\C#\Windows Forms\PhoneBookConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+E:\C#\Windows Forms\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.CopyComplete

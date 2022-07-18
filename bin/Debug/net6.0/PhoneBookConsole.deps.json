@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PhoneBookConsole/1.0.0": {
+        "dependencies": {
+          "OpenXmlPowerTools": "4.5.3.2"
+        },
+        "runtime": {
+          "PhoneBookConsole.dll": {}
+        }
+      },
+      "OpenXmlPowerTools/4.5.3.2": {
+        "runtime": {
+          "lib/net45/OpenXmlPowerTools.dll": {
+            "assemblyVersion": "4.5.3.0",
+            "fileVersion": "4.5.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBookConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenXmlPowerTools/4.5.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F0HxQxh5+ZL5lOhkddrIozQj2ml0Zzwp25P5teEDmT8iyj++ZpeXf7c6aYqvHH1A9uULyayKVUUYhLi7+55pFw==",
+      "path": "openxmlpowertools/4.5.3.2",
+      "hashPath": "openxmlpowertools.4.5.3.2.nupkg.sha512"
+    }
+  }
+}
